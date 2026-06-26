@@ -1,4 +1,4 @@
-Code uploaded in 2025 to Xen Wiki at [https://en.xen.wiki/w/User:Hkm/Fokker_block_code].
+Code uploaded in 2025 to Xen Wiki at https://en.xen.wiki/w/User:Hkm/Fokker_block_code.
 
 This code can be used to find Fokker periodicity blocks. It requires the [lib_temper](https://github.com/Sin-tel/temper/tree/main/lib_temper) library made by [sintel](https://github.com/Sin-tel).
 
